@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "login": "uoub4",
+  "seed": "#487EBA",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Yo, I'm",
+    "name": "uoub",
+    "subtitle": "Linux enthusiast who loves customizing everything",
+    "typing": true,
+    "avatarShape": "cookie",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Morocco"
+      },
+      {
+        "icon": "translate",
+        "label": "eng/ara"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "18 y/o computer enthusiast"
+      },
+      {
+        "icon": "code",
+        "label": "Running Fedora with KDE Plasma"
+      },
+      {
+        "icon": "palette",
+        "label": "Into customization and gaming"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "bolt",
+            "label": "Fedora"
+          },
+          {
+            "icon": "palette",
+            "label": "KDE Plasma"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Bash"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "VS Code"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "Steam"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "pixel-garden",
+      "tiny-weather",
+      "echo-bot",
+      "dotfiles"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/uoub_4"
+      },
+      {
+        "icon": "brand:spotify",
+        "url": "https://open.spotify.com/user/31wg4fefebn4f5x5lc74pwda5mqe?si=f47fe2ad8eae4253"
+      }
+    ],
+    "variant": "icon",
+    "fill": "tonal",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
