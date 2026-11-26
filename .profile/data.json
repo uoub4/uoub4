@@ -1,5 +1,5 @@
 {
- "key": "7525560a",
+ "key": "fdbb4b",
  "stars": 0,
  "contributions": 4,
  "repos": 1,
@@ -99,9 +99,13 @@
    {
     "c": 0,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null
   ]
